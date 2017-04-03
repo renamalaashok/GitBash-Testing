@@ -1,0 +1,28 @@
+Git is a free, open source distributed version control system tool designed to handle everything from small to very large projects with speed and efficiency. It was created by Linus Torvalds in 2005 to develop Linux Kernel. Git has the functionality, performance, security and flexibility that most teams and individual developers need. This ‘What Is Git’ blog is the first blog of my Git Tutorial series. I hope you will enjoy it. :-)
+
+In this ‘What is Git’ blog, you will learn:
+
+Why Git came into existence?
+What is Git?
+Features of Git
+How Git plays a vital role in DevOps?
+How Microsoft and other companies are using Git
+
+What is Git – Why Git Came Into Existence?
+
+We all know “Necessity is the mother of all inventions”. And similarly Git was also invented to fulfill certain necessities that the developers faced before Git. So, let us take a step back to learn all about Version Control Systems (VCS) and how Git came into existence.
+
+Version Control is the management of changes to documents, computer programs, large websites and other collection of information.
+
+There are two types of VCS: 
+
+Centralized Version Control System (CVCS)
+Distributed Version Control System (DVCS)
+Centralized VCS
+Centralized version control system (CVCS) uses a central server to store all files and enables team collaboration. It works on a single repository to which users can directly access a central server.
+
+Please refer to the diagram below to get a better idea of CVCS:
+
+Centralized Version Control System Workflow - What Is Git - Edureka
+
+The repository in the above diagram 
