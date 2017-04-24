@@ -1,0 +1,7 @@
+This usage of git reset is a simple way to undo changes that haven’t been shared with anyone else. It’s your go-to command when you’ve started working on a feature and find yourself thinking, “Oh crap, what am I doing? I should just start over.”
+
+In addition to moving the current branch, you can also get git reset to alter the staged snapshot and/or the working directory by passing it one of the following flags:
+
+--soft – The staged snapshot and working directory are not altered in any way.
+--mixed – The staged snapshot is updated to match the specified commit, but the working directory is not affected. This is the default option.
+--hard – The staged snapshot and the work
